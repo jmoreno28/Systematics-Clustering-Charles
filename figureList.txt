@@ -1,0 +1,40 @@
+David Lawlor, Tamás Budavári, Michael W. Mahoney 2016
+https://arxiv.org/pdf/1609.03932.pdf
+
+BPT Diagram - the classically used method of identifying AGN, projecting objects in 2D plane of line ratios and calibrating curves to separate out a limited number of populations
+
+Spectral Decomposition - more Sophisticated classification of SDSS galaxies eparated ou star forming galaxies, red and dead galaxies, systematics (HII regions misclassified as star forming galaxies and strong AGN from weaker AGN in the secondary branch (this show a continuous classification as oppossed to arbitrary color cuts as shown in the BPT diagram )
+------------------------------------------------------------------------
+
+
+Matthew J. Graham, S. G. Djorgovski, Daniel J. Stern, Andrew J. Drake, Ashish Mahabal  2016
+https://arxiv.org/abs/1612.07271
+
+tsneCARMA - CARMA coefficients modelling 14,000 quasars using ground based data (meaning irregularly sampled, short timescales not well resolved), color show weak redshift dependence
+--------------------------------------------------------------------------
+
+
+Troben Simm 2016
+https://zenodo.org/record/60387#.WJDFpLYrI2R
+
+CARMAfit --CARMA interpolation on irregularly sampled data (robust tool to interpolate between missing data or poorly resolved data, performs even better on well sample data like kepler)
+
+
+
+-------------------------------------------------------------------------
+CARMA fit on k2 agn
+
+camp3 examples - K2 AGN lightcurve fit, SF is a second order statistic showing the goodness of fit between model and data change in flux versus time lag - slope alignement indicate the complexity of variability at that timescale of that lag being well fit 
+
+
+
+--------------------------------------------------------------------------
+Systematics - 
+
+SpatiallyCorrelated.png - 
+caption :these lightcurves appear to dip at 60 and 75 days.  With a little bit of a time shift or delay between the set. If the shift corresponds to angular separation on the sky there may be separation \& amplitude dependent bleeding across pixels. This variability is not likely to originate from the systematics of the CCD otherwise the amplitude should be the same for the star shown in cyan which falls on the same module and channel.
+
+
+Dun Wang, David W. Hogg, Dan Foreman-Mackey, Bernhard Schölkopf
+https://arxiv.org/abs/1508.01853
+ pixelSystematics 
